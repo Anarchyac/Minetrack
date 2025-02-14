@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Anarchy",
+		"ip": "anarchy.ac",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "2b2t",
+		"ip": "2b2t.org",
 		"type": "PC"
 	}
 ]
